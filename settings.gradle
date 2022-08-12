@@ -1,0 +1,5 @@
+
+rootProject.name="mongo-lambda-issue"
+
+include("app")
+include("infra")
